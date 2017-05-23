@@ -10,7 +10,7 @@ copy,/Windows/System32/winevt/Logs/Windows Azure.evtx
 
 echo,### Provisioning ###
 copy,/AzureData/CustomData.bin
-copy,/Windows/Setup/State/state.ini
+copy,/Windows/Setup/State/State.ini
 copy,/Windows/Panther/WaSetup.xml
 copy,/Windows/Panther/WaSetup.log
 copy,/Windows/Panther/unattend.xml
